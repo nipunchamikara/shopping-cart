@@ -1,7 +1,7 @@
 # Shopping Cart App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
-The app allows a user to alter the quantity of items and has real-time updation of the total price.
+The app is a shopping cart with three items which allows a user to alter the quantity of items and has real-time updation of the total price.
 
 ## Available Scripts
 
