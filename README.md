@@ -7,6 +7,8 @@ The app is a shopping cart with three items which allows a user to alter the qua
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
